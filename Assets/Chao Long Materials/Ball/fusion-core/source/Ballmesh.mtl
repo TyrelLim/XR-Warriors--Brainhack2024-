@@ -1,0 +1,35 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.166252288)
+
+newmtl 03 - Default
+kd 0.294118 0.294118 0.294118
+illum 1
+
+newmtl steelholders
+kd 0.105882 0.105882 0.105882
+illum 1
+
+newmtl emission
+kd 0 0.890196 0.968627
+illum 1
+
+newmtl base
+kd 1 0 0
+illum 1
+
+newmtl 09 - Default
+kd 0 0.113725 0.980392
+illum 1
+
+newmtl Material _61
+kd 0.588 0.588 0.588
+illum 1
+
+newmtl Material _62
+kd 0.588 0.588 0.588
+illum 1
+
+newmtl Material _63
+kd 0.588 0.588 0.588
+illum 1
+

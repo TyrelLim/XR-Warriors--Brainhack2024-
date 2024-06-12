@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 129dd799ddd2d8645be293f213e69fdf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orenburg
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0981cede88f0aa848a8911979f8eb2f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

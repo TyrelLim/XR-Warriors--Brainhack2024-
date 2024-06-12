@@ -1,0 +1,11 @@
+Model Information:
+* title:	CCTV Console
+* source:	https://sketchfab.com/3d-models/cctv-console-10089d10ecbe414f9e9e7c3470f82ff4
+* author:	2met7cen (https://sketchfab.com/workshop2met7cen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CCTV Console" (https://sketchfab.com/3d-models/cctv-console-10089d10ecbe414f9e9e7c3470f82ff4) by 2met7cen (https://sketchfab.com/workshop2met7cen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
